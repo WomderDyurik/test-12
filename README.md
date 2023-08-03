@@ -1,5 +1,7 @@
 # test-12
 
+deploy: https://test-12-ten.vercel.app/
+
 Проект сделал с помошью: Vue3, vuex, vue-router
 Валидация инпутов простая: с помошью типов.
 Резюме: https://hh.ru/resume/6cd2cd22ff0b0608880039ed1f6c52564c7643
